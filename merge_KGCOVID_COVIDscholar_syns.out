@@ -1,0 +1,664 @@
+summary	ORF	common	onlykg	onlycd	kg_syns	cs_syns
+['ORF1a', '1a', 'ORF1a/ClvPrd (SARS2)', 'ORF1a proteolytic cleavage product']
+found kg/cs :ORF1a:
+found kg/cs :1a:
+found kg/cs :ORF1a/ClvPrd (SARS2):
+found kg/cs :ORF1a proteolytic cleavage product:
+not found in kg :Replicase polyprotein 1a:
+not found in kg :pp1a:
+not found in kg :pp1a:
+not found in kg :beta-1a:
+not found in kg :ß-1a:
+not found in kg :β-1a:
+not found in kg :lambda-1a:
+not found in kg :B-1a:
+not found in kg :IFN-ß-1a:
+not found in kg :IFN-β-1a:
+not found in kg :HIF-1a:
+not found in kg :MIP-1a:
+not found in kg :IL-1a:
+not found in kg :-1a:
+summary	pp1a	4	0	14	4	21
+['P0DTC1(4393-4405)', 'rep/Clv:nsp11 (SARS2)', 'UniProtKB:P0DTC1, 4393-4405', 'nsp11 (SARS2)', 'Non-structural protein 11', 'nsp-11', 'ns11', 'ns-11', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 11', '4393-4405']
+found kg/cs :P0DTC1(4393-4405):
+found kg/cs :rep/Clv:nsp11 (SARS2):
+not found in cs :UniProtKB:P0DTC1, 4393-4405:
+found kg/cs :nsp11 (SARS2):
+found kg/cs :Non-structural protein 11:
+found kg/cs :nsp-11:
+found kg/cs :ns11:
+found kg/cs :ns-11:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 11:
+found kg/cs :4393-4405:
+not found in kg :UniProtKB:P0DTC1:
+not found in kg :PRO_0000449645:
+not found in kg :nsp11:
+not found in kg :nsp11:
+summary	nsp11	9	1	4	10	14
+['S', 'S glycoprotein (SARS2)', 'surface glycoprotein (SARS2)', 'E2 (SARS2)', 'S (SARS2)', 'peplomer protein (SARS2)', 'Spike', 'spike gene', 'Spike (S) glycoprotein', 'Spike (S)', 'S glycoprotein', 'spike surface glycoprotein (S)', 'E2', 'E2 protein', 'E2', 'S-glycoprotein']
+not found in cs :S:
+found kg/cs :S glycoprotein (SARS2):
+found kg/cs :surface glycoprotein (SARS2):
+found kg/cs :E2 (SARS2):
+found kg/cs :S (SARS2):
+found kg/cs :peplomer protein (SARS2):
+found kg/cs :Spike:
+found kg/cs :spike gene:
+found kg/cs :Spike (S) glycoprotein:
+found kg/cs :Spike (S):
+found kg/cs :S glycoprotein:
+found kg/cs :spike surface glycoprotein (S):
+found kg/cs :E2:
+found kg/cs :E2 protein:
+found kg/cs :E2:
+found kg/cs :S-glycoprotein:
+not found in kg :Spike glycoprotein:
+not found in kg :Spike glycoprotein:
+not found in kg :S protein:
+not found in kg :S protein:
+not found in kg :bacTRL-Spike:
+not found in kg :anti-Spike:
+not found in kg :ACE2-Spike:
+not found in kg :ACE2-S protein:
+not found in kg :"Spike:
+not found in kg :.Spike:
+not found in kg :.E2:
+not found in kg :-S protein:
+not found in kg :-Spike:
+summary	S protein	15	1	13	16	35
+['P0DTC2(13-685)', 'UniProtKB:P0DTC2, 13-685', 'S1 (SARS2)', 'Spike (S1) glycoprotein', 'S1 protein', 'spike (S1) protein', 'S1']
+found kg/cs :P0DTC2(13-685):
+not found in cs :UniProtKB:P0DTC2, 13-685:
+found kg/cs :S1 (SARS2):
+found kg/cs :Spike (S1) glycoprotein:
+found kg/cs :S1 protein:
+found kg/cs :spike (S1) protein:
+not found in cs :S1:
+not found in kg :UniProtKB:P0DTC2:
+not found in kg :13-685:
+not found in kg :Spike protein S1:
+not found in kg :Spike protein S1:
+not found in kg :PRO_0000449647:
+not found in kg :S(13-685):
+summary	Spike protein S1	5	2	6	7	11
+['P0DTC2(686-1273)', 'UniProtKB:P0DTC2, 686-1273', 'S2 (SARS2)', 'Spike (S2) glycoprotein', 'S2 protein', 'spike (S2) protein', 'S2']
+found kg/cs :P0DTC2(686-1273):
+not found in cs :UniProtKB:P0DTC2, 686-1273:
+found kg/cs :S2 (SARS2):
+found kg/cs :Spike (S2) glycoprotein:
+found kg/cs :S2 protein:
+found kg/cs :spike (S2) protein:
+not found in cs :S2:
+not found in kg :UniProtKB:P0DTC2:
+not found in kg :686-1273:
+not found in kg :Spike protein S2:
+not found in kg :Spike protein S2:
+not found in kg :PRO_0000449648:
+not found in kg :S(686-1273):
+summary	Spike protein S2	5	2	6	7	11
+['P0DTC2(816-1273)', 'UniProtKB:P0DTC2, 816-1273', "S2' (SARS2)", "Spike (S2') glycoprotein", "S2' protein", "spike (S2') protein", "S2'"]
+found kg/cs :P0DTC2(816-1273):
+not found in cs :UniProtKB:P0DTC2, 816-1273:
+found kg/cs :S2' (SARS2):
+found kg/cs :Spike (S2') glycoprotein:
+found kg/cs :S2' protein:
+found kg/cs :spike (S2') protein:
+not found in cs :S2':
+not found in kg :UniProtKB:P0DTC2:
+not found in kg :816-1273:
+not found in kg :Spike protein S2':
+not found in kg :Spike protein S2':
+not found in kg :PRO_0000449649:
+not found in kg :S(816-1273):
+summary	Spike protein S2'	5	2	6	7	11
+['3a', 'protein U274 (SARS2)', 'ORF3a (SARS2)', 'protein X1 (SARS2)', 'accessory protein 3a (SARS2)', 'P0DTC3', 'Protein 3a', 'Accessory protein 3a', 'Protein U274', 'Protein X1', '3a', '3a protein', '3a accessory gene', '3a accessory protein']
+found kg/cs :3a:
+found kg/cs :protein U274 (SARS2):
+found kg/cs :ORF3a (SARS2):
+found kg/cs :protein X1 (SARS2):
+found kg/cs :accessory protein 3a (SARS2):
+found kg/cs :P0DTC3:
+found kg/cs :Protein 3a:
+found kg/cs :Accessory protein 3a:
+found kg/cs :Protein U274:
+found kg/cs :Protein X1:
+found kg/cs :3a:
+found kg/cs :3a protein:
+found kg/cs :3a accessory gene:
+found kg/cs :3a accessory protein:
+not found in kg :PRO_0000449650:
+not found in kg :ORF3a protein:
+not found in kg :ORF3a:
+not found in kg :ORF3a:
+summary	ORF3a	14	0	4	14	21
+['sM protein (SARS2)', 'envelope protein (SARS2)', 'E protein (SARS2)', 'E (SARS2)', 'Envelope small membrane protein', 'small envelope protein (E)', 'small envelope protein', 'E']
+found kg/cs :sM protein (SARS2):
+found kg/cs :envelope protein (SARS2):
+found kg/cs :E protein (SARS2):
+found kg/cs :E (SARS2):
+found kg/cs :Envelope small membrane protein:
+found kg/cs :small envelope protein (E):
+found kg/cs :small envelope protein:
+not found in cs :E:
+not found in kg :PRO_0000449651:
+not found in kg :E protein:
+not found in kg :E protein:
+not found in kg :P0DTC4:
+not found in kg :2-E protein:
+summary	E protein	7	1	5	8	13
+['E1 glycoprotein', 'Matrix glycoprotein', 'Matrix protein (M)', 'Membrane glycoprotein', 'Matrix protein', 'Matrix (M) protein']
+found kg/cs :E1 glycoprotein:
+found kg/cs :Matrix glycoprotein:
+found kg/cs :Matrix protein (M):
+found kg/cs :Membrane glycoprotein:
+found kg/cs :Matrix protein:
+found kg/cs :Matrix (M) protein:
+not found in kg :Membrane protein:
+not found in kg :M protein:
+not found in kg :S/E/M protein:
+summary	M protein	6	0	3	6	9
+['ns6', 'X3', 'accessory protein 6 (SARS2)', 'ns6 (SARS2)', 'protein X3 (SARS2)', 'ORF6 (SARS2)', 'Non-structural protein 6', 'ns-6', 'Protein X3', '6 accessory gene', '6 accessory protein', '6']
+found kg/cs :ns6:
+found kg/cs :X3:
+found kg/cs :accessory protein 6 (SARS2):
+found kg/cs :ns6 (SARS2):
+found kg/cs :protein X3 (SARS2):
+found kg/cs :ORF6 (SARS2):
+found kg/cs :Non-structural protein 6:
+found kg/cs :ns-6:
+found kg/cs :Protein X3:
+found kg/cs :6 accessory gene:
+found kg/cs :6 accessory protein:
+not found in cs :6:
+not found in kg :PRO_0000449653:
+not found in kg :P0DTC6:
+not found in kg :ORF6:
+not found in kg :ORF6:
+not found in kg :ORF6:
+summary	ORF6	11	1	5	12	16
+['7a', '7a/SigPep- (SARS2)', 'protein 7a, signal peptide removed form', 'UniProtKB:P0DTC7, 16-121', 'protein X4 (SARS2)', 'accessory protein 7a (SARS2)', 'protein U122 (SARS2)', 'ORF7a (SARS2)', '7a', '7a protein', 'protein 7a', '7a accessory gene', '7a accessory protein', 'P0DTC7']
+found kg/cs :7a:
+found kg/cs :7a/SigPep- (SARS2):
+not found in cs :protein 7a, signal peptide removed form:
+not found in cs :UniProtKB:P0DTC7, 16-121:
+found kg/cs :protein X4 (SARS2):
+found kg/cs :accessory protein 7a (SARS2):
+found kg/cs :protein U122 (SARS2):
+found kg/cs :ORF7a (SARS2):
+found kg/cs :7a:
+found kg/cs :7a protein:
+found kg/cs :protein 7a:
+found kg/cs :7a accessory gene:
+found kg/cs :7a accessory protein:
+found kg/cs :P0DTC7:
+not found in kg :signal peptide removed form:
+not found in kg :UniProtKB:P0DTC7:
+not found in kg :16-121:
+not found in kg :PRO_0000449654:
+not found in kg :ORF7a protein:
+not found in kg :ORF7a:
+not found in kg :ORF7a:
+summary	ORF7a	12	2	7	14	22
+['UniProtKB:P0DTC8, 16-121', 'ORF8/SigPep- (SARS2)', 'ORF8 protein, signal peptide removed form', 'accessory protein 8', 'ORF8 (SARS2)', 'ns8 (SARS2)', 'Non-structural protein 8', 'Protein non-structural 8', 'ns8', 'ns-8', 'nsp 8', 'nsp8', 'P0DTC8', 'ORF8 protein', 'P0DTC8']
+not found in cs :UniProtKB:P0DTC8, 16-121:
+found kg/cs :ORF8/SigPep- (SARS2):
+not found in cs :ORF8 protein, signal peptide removed form:
+found kg/cs :accessory protein 8:
+found kg/cs :ORF8 (SARS2):
+found kg/cs :ns8 (SARS2):
+found kg/cs :Non-structural protein 8:
+found kg/cs :Protein non-structural 8:
+found kg/cs :ns8:
+found kg/cs :ns-8:
+found kg/cs :nsp 8:
+found kg/cs :nsp8:
+found kg/cs :P0DTC8:
+found kg/cs :ORF8 protein:
+found kg/cs :P0DTC8:
+not found in kg :signal peptide removed form:
+not found in kg :UniProtKB:P0DTC8:
+not found in kg :16-121:
+not found in kg :PRO_0000449655:
+not found in kg :ORF8:
+not found in kg :ORF8:
+not found in kg :-nsp8:
+summary	ORF8	13	2	7	15	22
+['NC', 'Protein N', 'P0DTC9(1-419)', 'N', 'NC (SARS2)', 'N (SARS2)', 'nucleocapsid protein (SARS2)', 'protein N (SARS2)', 'Nucleoprotein (N)', 'Nucleocapsid protein', 'nucleocapsid gene', 'nucleocapsid protein (N)']
+not found in cs :NC:
+found kg/cs :Protein N:
+found kg/cs :P0DTC9(1-419):
+not found in cs :N:
+found kg/cs :NC (SARS2):
+found kg/cs :N (SARS2):
+found kg/cs :nucleocapsid protein (SARS2):
+found kg/cs :protein N (SARS2):
+found kg/cs :Nucleoprotein (N):
+found kg/cs :Nucleocapsid protein:
+found kg/cs :nucleocapsid gene:
+found kg/cs :nucleocapsid protein (N):
+not found in kg :PRO_0000449656:
+not found in kg :Nucleoprotein:
+not found in kg :nucleoprotein:
+not found in kg :N protein:
+not found in kg :anti-Nucleoprotein:
+not found in kg :anti-nucleoprotein:
+summary	N protein	10	2	6	12	18
+['rep', '1a-1b', 'ORF1ab', 'ORF1ab/ClvPrd (SARS2)', 'ORF1ab proteolytic cleavage product', 'Replicase polyprotein 1ab']
+not found in cs :rep:
+found kg/cs :1a-1b:
+found kg/cs :ORF1ab:
+found kg/cs :ORF1ab/ClvPrd (SARS2):
+found kg/cs :ORF1ab proteolytic cleavage product:
+found kg/cs :Replicase polyprotein 1ab:
+not found in kg :pp1ab:
+summary	pp1ab	5	1	1	6	8
+['protein']
+not found in cs :protein:
+not found in kg :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 1:
+not found in kg :non-structural protein 1 (SARS2):
+not found in kg :Host translation inhibitor nsp1:
+not found in kg :host translation inhibitor nsp1:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :1-180:
+not found in kg :UniProtKB:P0DTC1:
+not found in kg :1-180:
+not found in kg :leader protein (SARS2):
+not found in kg :rep/Clv:nsp1 (SARS2):
+not found in kg :PRO_0000449619:
+not found in kg :PRO_0000449635:
+not found in kg :P0DTD1(1-180):
+not found in kg :nsp1 (SARS2):
+not found in kg :nsp-1:
+not found in kg :nsp1:
+not found in kg :nsp1:
+not found in kg :ns-1:
+not found in kg :ns1:
+summary	nsp1	0	1	19	1	23
+['P0DTD1(181-818)', 'UniProtKB:P0DTC1, 181-818', 'UniProtKB:P0DTD1, 181-818', 'p65 homolog (SARS2)', 'PRO_0000449636', 'nsp2 (SARS2)', 'rep/Clv:nsp2 (SARS2)', 'nsp-2', 'ns2', 'ns-2', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 2 ']
+summary	nsp2	0	0	0	11	0
+did not find nsp2
+['PL-PRO', 'P0DTD1(819-2763)', 'UniProtKB:P0DTD1, 819-2763', 'PLpro (SARS2)', 'nsp3 (SARS2)', 'rep/Clv:nsp3 (SARS2)', 'main proteinase (SARS2)', 'papain-like proteinase (SARS2)', 'UniProtKB:P0DTC1, 819-2763', 'PRO_0000449637', 'nsp-3', 'ns3', 'ns-3', 'Papain-like proteinase', 'Papain-like protease', 'Papain-like protease 2', 'Papain-like proteinase 2', 'PL-PRO', 'PL2-PRO', 'PL2pro', 'PLpro', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 3', '819-2763', 'SARS-CoV-2-PLpro', '2764-3263']
+found kg/cs :PL-PRO:
+found kg/cs :P0DTD1(819-2763):
+not found in cs :UniProtKB:P0DTD1, 819-2763:
+found kg/cs :PLpro (SARS2):
+found kg/cs :nsp3 (SARS2):
+found kg/cs :rep/Clv:nsp3 (SARS2):
+found kg/cs :main proteinase (SARS2):
+found kg/cs :papain-like proteinase (SARS2):
+not found in cs :UniProtKB:P0DTC1, 819-2763:
+found kg/cs :PRO_0000449637:
+found kg/cs :nsp-3:
+found kg/cs :ns3:
+found kg/cs :ns-3:
+found kg/cs :Papain-like proteinase:
+found kg/cs :Papain-like protease:
+found kg/cs :Papain-like protease 2:
+found kg/cs :Papain-like proteinase 2:
+found kg/cs :PL-PRO:
+found kg/cs :PL2-PRO:
+found kg/cs :PL2pro:
+found kg/cs :PLpro:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 3:
+found kg/cs :819-2763:
+found kg/cs :SARS-CoV-2-PLpro:
+not found in cs :2764-3263:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :UniProtKB:P0DTC1:
+not found in kg :Non-structural protein 3:
+not found in kg :Non-structural protein 3:
+not found in kg :PRO_0000449621:
+not found in kg :nsp3:
+not found in kg :nsp3:
+summary	nsp3	22	3	7	25	32
+['P0DTD1(2764-3263)', 'RO_0000449638', 'rep/Clv:nsp4 (SARS2)', 'UniProtKB:P0DTC1, 2764-3263', 'nsp4 (SARS2)', 'UniProtKB:P0DTD1, 2764-3263', 'nsp-4', 'ns4', 'ns-4', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 4']
+found kg/cs :P0DTD1(2764-3263):
+found kg/cs :RO_0000449638:
+found kg/cs :rep/Clv:nsp4 (SARS2):
+not found in cs :UniProtKB:P0DTC1, 2764-3263:
+found kg/cs :nsp4 (SARS2):
+not found in cs :UniProtKB:P0DTD1, 2764-3263:
+found kg/cs :nsp-4:
+found kg/cs :ns4:
+found kg/cs :ns-4:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 4:
+not found in kg :UniProtKB:P0DTC1:
+not found in kg :2764-3263:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :2764-3263:
+not found in kg :Non-structural protein 4:
+not found in kg :Non-structural protein 4:
+not found in kg :PRO_0000449622:
+not found in kg :nsp4:
+not found in kg :nsp4:
+not found in kg :nsp4:
+summary	nsp4	8	2	10	10	18
+['3CL-PRO', '3CLp', 'Mpro', 'P0DTD1(3264-3569)', 'UniProtKB:P0DTD1, 3264-3569', '3CLpro (SARS2)', 'UniProtKB:P0DTC1, 3264-3569', 'nsp5 (SARS2)', '3CL-PRO (SARS2)', 'picornavirus 3C-like protease (SARS2)', 'rep/Clv:nsp5 (SARS2)', '3CLp (SARS2)', '3C-like protease', '3CL pro proteinase', '3CL-PRO', '3CLp', '3CLpro', 'SARS-3CL pro', 'SARS-3CL pro proteinase', 'SARS-3CLpro', 'proteinase 3CL pro', '3-chymotrypsin-like protease (3CLpro)', '3-chymotrypsin-like protease', 'chymotrypsin-like protease', 'chymotrypsin-like cysteine protease', 'Non-structural protein 5', 'nsp-5', 'ns5', 'ns-5', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 5', 'M pro', 'main protease', 'main proteinase', 'Mpro', 'SARS coronavirus main proteinase', 'SARS-CoV-3CLpro', 'SARS-CoV-2-Mpro', 'SARS-CoV-3CLp']
+found kg/cs :3CL-PRO:
+found kg/cs :3CLp:
+found kg/cs :Mpro:
+found kg/cs :P0DTD1(3264-3569):
+not found in cs :UniProtKB:P0DTD1, 3264-3569:
+found kg/cs :3CLpro (SARS2):
+not found in cs :UniProtKB:P0DTC1, 3264-3569:
+found kg/cs :nsp5 (SARS2):
+found kg/cs :3CL-PRO (SARS2):
+found kg/cs :picornavirus 3C-like protease (SARS2):
+found kg/cs :rep/Clv:nsp5 (SARS2):
+found kg/cs :3CLp (SARS2):
+found kg/cs :3C-like protease:
+found kg/cs :3CL pro proteinase:
+found kg/cs :3CL-PRO:
+found kg/cs :3CLp:
+found kg/cs :3CLpro:
+found kg/cs :SARS-3CL pro:
+found kg/cs :SARS-3CL pro proteinase:
+found kg/cs :SARS-3CLpro:
+found kg/cs :proteinase 3CL pro:
+found kg/cs :3-chymotrypsin-like protease (3CLpro):
+found kg/cs :3-chymotrypsin-like protease:
+found kg/cs :chymotrypsin-like protease:
+found kg/cs :chymotrypsin-like cysteine protease:
+found kg/cs :Non-structural protein 5:
+found kg/cs :nsp-5:
+found kg/cs :ns5:
+found kg/cs :ns-5:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 5:
+found kg/cs :M pro:
+found kg/cs :main protease:
+found kg/cs :main proteinase:
+found kg/cs :Mpro:
+found kg/cs :SARS coronavirus main proteinase:
+found kg/cs :SARS-CoV-3CLpro:
+found kg/cs :SARS-CoV-2-Mpro:
+found kg/cs :SARS-CoV-3CLp:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :3264-3569:
+not found in kg :UniProtKB:P0DTC1:
+not found in kg :3264-3569:
+not found in kg :3C-like proteinase:
+not found in kg :3C-like proteinase:
+not found in kg :PRO_0000449623:
+not found in kg :PRO_0000449639:
+not found in kg :nsp5:
+not found in kg :nsp5:
+not found in kg :nsp5:
+not found in kg :3-chymotrypsin-like cysteine protease:
+not found in kg :drug-Mpro:
+summary	nsp5	36	2	13	38	64
+['P0DTD1(3570-3859)', 'nsp6 (SARS2)', 'UniProtKB:P0DTC1, 3570-3859', 'UniProtKB:P0DTD1, 3570-3859', 'rep/Clv:nsp6 (SARS2)', 'nsp-6', 'ns6', 'ns-6', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 6']
+found kg/cs :P0DTD1(3570-3859):
+found kg/cs :nsp6 (SARS2):
+not found in cs :UniProtKB:P0DTC1, 3570-3859:
+not found in cs :UniProtKB:P0DTD1, 3570-3859:
+found kg/cs :rep/Clv:nsp6 (SARS2):
+found kg/cs :nsp-6:
+found kg/cs :ns6:
+found kg/cs :ns-6:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 6:
+not found in kg :UniProtKB:P0DTC1:
+not found in kg :3570-3859:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :3570-3859:
+not found in kg :Non-structural protein 6:
+not found in kg :Non-structural protein 6:
+not found in kg :PRO_0000449640:
+not found in kg :PRO_0000449624:
+not found in kg :nsp6:
+not found in kg :nsp6:
+summary	nsp6	7	2	10	9	17
+['P0DTD1(3860-3942)', 'rep/Clv:nsp7 (SARS2)', 'nsp7 (SARS2)', 'UniProtKB:P0DTD1, 3860-3942', 'UniProtKB:P0DTC1, 3860-3942', 'nsp-7', 'ns7', 'ns-7', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 7']
+found kg/cs :P0DTD1(3860-3942):
+found kg/cs :rep/Clv:nsp7 (SARS2):
+found kg/cs :nsp7 (SARS2):
+not found in cs :UniProtKB:P0DTD1, 3860-3942:
+not found in cs :UniProtKB:P0DTC1, 3860-3942:
+found kg/cs :nsp-7:
+found kg/cs :ns7:
+found kg/cs :ns-7:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 7:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :3860-3942:
+not found in kg :UniProtKB:P0DTC1:
+not found in kg :3860-3942:
+not found in kg :Non-structural protein 7:
+not found in kg :Non-structural protein 7:
+not found in kg :PRO_0000449625:
+not found in kg :PRO_0000449641:
+not found in kg :nsp7:
+not found in kg :nsp7:
+summary	nsp7	7	2	10	9	19
+['P0DTD1(3943-4140)', 'nsp8 (SARS2)', 'rep/Clv:nsp8 (SARS2)', 'UniProtKB:P0DTD1, 3943-4140', 'UniProtKB:P0DTC1, 3943-4140', 'nsp-8', 'ns8', 'ns-8', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 8', 'ORF8 protein', 'Protein non-structural 8', 'ORF8/SigPep- (SARS2)', 'UniProtKB:P0DTC8', 'accessory protein 8', 'ORF8 (SARS2)', 'ORF8 protein', 'ns8 (SARS2)', 'P0DTC8', 'nsp 8', 'ORF8', 'PRO_0000449655']
+not found in cs :P0DTD1(3943-4140):
+not found in cs :nsp8 (SARS2):
+not found in cs :rep/Clv:nsp8 (SARS2):
+not found in cs :UniProtKB:P0DTD1, 3943-4140:
+not found in cs :UniProtKB:P0DTC1, 3943-4140:
+not found in cs :nsp-8:
+found kg/cs :ns8:
+found kg/cs :ns-8:
+not found in cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 8:
+found kg/cs :ORF8 protein:
+found kg/cs :Protein non-structural 8:
+found kg/cs :ORF8/SigPep- (SARS2):
+found kg/cs :UniProtKB:P0DTC8:
+found kg/cs :accessory protein 8:
+found kg/cs :ORF8 (SARS2):
+found kg/cs :ORF8 protein:
+found kg/cs :ns8 (SARS2):
+found kg/cs :P0DTC8:
+found kg/cs :nsp 8:
+found kg/cs :ORF8:
+found kg/cs :PRO_0000449655:
+not found in kg :signal peptide removed form:
+not found in kg :16-121:
+not found in kg :Non-structural protein 8:
+not found in kg :nsp8:
+not found in kg :-nsp8:
+summary	nsp8	14	7	5	21	22
+['P0DTD1(4141-4253)', 'UniProtKB:P0DTC1, 4141-4253', 'nsp9 (SARS2)', 'rep/Clv:nsp9 (SARS2)', 'UniProtKB:P0DTD1, 4141-4253', 'nsp-9', 'ns9', 'ns-9', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 9']
+found kg/cs :P0DTD1(4141-4253):
+not found in cs :UniProtKB:P0DTC1, 4141-4253:
+found kg/cs :nsp9 (SARS2):
+found kg/cs :rep/Clv:nsp9 (SARS2):
+not found in cs :UniProtKB:P0DTD1, 4141-4253:
+found kg/cs :nsp-9:
+found kg/cs :ns9:
+found kg/cs :ns-9:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 9:
+not found in kg :UniProtKB:P0DTC1:
+not found in kg :4141-4253:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :4141-4253:
+not found in kg :Non-structural protein 9:
+not found in kg :Non-structural protein 9:
+not found in kg :PRO_0000449643:
+not found in kg :PRO_0000449627:
+not found in kg :nsp9:
+not found in kg :nsp9:
+summary	nsp9	7	2	10	9	17
+['GFL', 'P0DTD1(4254-4392)', 'rep/Clv:nsp10 (SARS2)', 'UniProtKB:P0DTD1, 4254-4392', 'UniProtKB:P0DTC1, 4254-4392', 'growth factor-like peptide (SARS2)', 'nsp10 (SARS2)', 'GFL (SARS2)', 'nsp-10', 'ns10', 'ns-10', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 10']
+found kg/cs :GFL:
+found kg/cs :P0DTD1(4254-4392):
+found kg/cs :rep/Clv:nsp10 (SARS2):
+not found in cs :UniProtKB:P0DTD1, 4254-4392:
+not found in cs :UniProtKB:P0DTC1, 4254-4392:
+found kg/cs :growth factor-like peptide (SARS2):
+found kg/cs :nsp10 (SARS2):
+found kg/cs :GFL (SARS2):
+found kg/cs :nsp-10:
+found kg/cs :ns10:
+found kg/cs :ns-10:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 10:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :4254-4392:
+not found in kg :UniProtKB:P0DTC1:
+not found in kg :4254-4392:
+not found in kg :Non-structural protein 10:
+not found in kg :Non-structural protein 10:
+not found in kg :PRO_0000449628:
+not found in kg :PRO_0000449644:
+not found in kg :nsp10:
+not found in kg :nsp10:
+summary	nsp10	10	2	10	12	21
+['Pol', 'RdRp', 'P0DTD1(4393-5324)', 'Pol (SARS2)', 'RdRp (SARS2)', 'nsp12 (SARS2)', 'UniProtKB:P0DTD1, 4393-5324', 'ORF1ab/Clv:nsp12 (SARS2)', 'Non-structural protein 12', 'nsp-12', 'ns12', 'ns-12', 'RNA-dependent RNA polymerase', 'RdRp', 'Pol', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 12', 'holo-RdRp']
+not found in cs :Pol:
+found kg/cs :RdRp:
+found kg/cs :P0DTD1(4393-5324):
+found kg/cs :Pol (SARS2):
+found kg/cs :RdRp (SARS2):
+found kg/cs :nsp12 (SARS2):
+not found in cs :UniProtKB:P0DTD1, 4393-5324:
+found kg/cs :ORF1ab/Clv:nsp12 (SARS2):
+found kg/cs :Non-structural protein 12:
+found kg/cs :nsp-12:
+found kg/cs :ns12:
+found kg/cs :ns-12:
+found kg/cs :RNA-dependent RNA polymerase:
+found kg/cs :RdRp:
+not found in cs :Pol:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 12:
+found kg/cs :holo-RdRp:
+not found in kg :RNA-directed RNA polymerase:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :4393-5324:
+not found in kg :RNA-directed RNA polymerase:
+not found in kg :PRO_0000449629:
+not found in kg :nsp12:
+not found in kg :nsp12:
+not found in kg :-RdRp:
+summary	nsp12	14	3	8	17	25
+['Hel', 'P0DTD1(5325-5925)', 'UniProtKB:P0DTD1, 5325-5925', 'ORF1ab/Clv:nsp13 (SARS2)', 'nsp13 (SARS2)', 'Hel (SARS2)', 'Non-structural protein 13', 'nsp-13', 'ns13', 'ns-13', 'helicase', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 13', 'NTPase/helicase']
+found kg/cs :Hel:
+found kg/cs :P0DTD1(5325-5925):
+not found in cs :UniProtKB:P0DTD1, 5325-5925:
+found kg/cs :ORF1ab/Clv:nsp13 (SARS2):
+found kg/cs :nsp13 (SARS2):
+found kg/cs :Hel (SARS2):
+found kg/cs :Non-structural protein 13:
+found kg/cs :nsp-13:
+found kg/cs :ns13:
+found kg/cs :ns-13:
+found kg/cs :helicase:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 13:
+found kg/cs :NTPase/helicase:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :5325-5925:
+not found in kg :PRO_0000449630:
+not found in kg :Helicase:
+not found in kg :nsp13:
+not found in kg :nsp13:
+not found in kg :/helicase:
+not found in kg :/Hel:
+summary	nsp13	12	1	8	13	23
+['ExoN', 'P0DTD1(5926-6452)', 'UniProtKB:P0DTD1, 5926-6452', 'ORF1ab/Clv:nsp14 (SARS2)', 'nsp14 (SARS2)', 'ExoN (SARS2)', 'bifunctional exonuclease/methyltransferase', 'Non-structural protein 14', 'nsp-14', 'ns14', 'ns-14', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 14']
+found kg/cs :ExoN:
+found kg/cs :P0DTD1(5926-6452):
+not found in cs :UniProtKB:P0DTD1, 5926-6452:
+found kg/cs :ORF1ab/Clv:nsp14 (SARS2):
+found kg/cs :nsp14 (SARS2):
+found kg/cs :ExoN (SARS2):
+found kg/cs :bifunctional exonuclease/methyltransferase:
+found kg/cs :Non-structural protein 14:
+found kg/cs :nsp-14:
+found kg/cs :ns14:
+found kg/cs :ns-14:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 14:
+not found in kg :Proofreading exoribonuclease:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :5926-6452:
+not found in kg :PRO_0000449631:
+not found in kg :nsp14:
+not found in kg :nsp14:
+summary	nsp14	11	1	6	12	20
+['P0DTD1(6453-6798)', 'nsp15 (SARS2)', 'NendoU (SARS2)', 'ORF1ab/Clv:nsp15 (SARS2)', 'UniProtKB:P0DTD1, 6453-6798', 'endoRNAse (SARS2)', 'Non-structural protein 15', 'nsp-15', 'ns15', 'ns-15', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 15']
+found kg/cs :P0DTD1(6453-6798):
+found kg/cs :nsp15 (SARS2):
+found kg/cs :NendoU (SARS2):
+found kg/cs :ORF1ab/Clv:nsp15 (SARS2):
+not found in cs :UniProtKB:P0DTD1, 6453-6798:
+found kg/cs :endoRNAse (SARS2):
+found kg/cs :Non-structural protein 15:
+found kg/cs :nsp-15:
+found kg/cs :ns15:
+found kg/cs :ns-15:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 15:
+not found in kg :Uridylate-specific endoribonuclease:
+not found in kg :uridylate-specific endoribonuclease:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :6453-6798:
+not found in kg :PRO_0000449632:
+not found in kg :nsp15:
+not found in kg :nsp15:
+summary	nsp15	10	1	7	11	19
+['P0DTD1(6799-7096)', 'nsp16 (SARS2)', "2'-O-ribose methyltransferase (SARS2)", 'UniProtKB:P0DTD1, 6799-7096', 'ORF1ab/Clv:nsp16 (SARS2)', 'Non-structural protein 16', 'nsp-16', 'ns16', 'ns-16', 'Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 16']
+found kg/cs :P0DTD1(6799-7096):
+found kg/cs :nsp16 (SARS2):
+found kg/cs :2'-O-ribose methyltransferase (SARS2):
+not found in cs :UniProtKB:P0DTD1, 6799-7096:
+found kg/cs :ORF1ab/Clv:nsp16 (SARS2):
+found kg/cs :Non-structural protein 16:
+found kg/cs :nsp-16:
+found kg/cs :ns16:
+found kg/cs :ns-16:
+found kg/cs :Severe acute respiratory syndrome (SARS) coronavirus nonstructural protein 16:
+not found in kg :UniProtKB:P0DTD1:
+not found in kg :6799-7096:
+not found in kg :2'-O-methyltransferase:
+not found in kg :2'-O-methyltransferase:
+not found in kg :PRO_0000449633:
+not found in kg :nsp16:
+not found in kg :nsp16:
+summary	nsp16	9	1	7	10	18
+['ORF-9b', 'accessory protein 9b (SARS2)', 'ORF-9b (SARS2)', 'ORF9b (SARS2)', 'Protein 9b', 'Accessory protein 9b', 'ORF-9b', '9b protein', '9b accessory gene', '9b accessory protein', '9b']
+found kg/cs :ORF-9b:
+found kg/cs :accessory protein 9b (SARS2):
+found kg/cs :ORF-9b (SARS2):
+found kg/cs :ORF9b (SARS2):
+found kg/cs :Protein 9b:
+found kg/cs :Accessory protein 9b:
+found kg/cs :ORF-9b:
+found kg/cs :9b protein:
+found kg/cs :9b accessory gene:
+found kg/cs :9b accessory protein:
+found kg/cs :9b:
+not found in kg :accessory protein 9b:
+not found in kg :PRO_0000449657:
+not found in kg :P0DTD2:
+not found in kg :ORF9b:
+not found in kg :ORF9b:
+not found in kg :rSARS-CoV-Δ[6–9b]:
+not found in kg :E,6-9b:
+not found in kg :6–9b:
+summary	ORF9b	11	0	8	11	19
+['ORF14 (SARS2)', 'ORF-14', '9c', 'ORF9c', 'ORF-9c']
+found kg/cs :ORF14 (SARS2):
+found kg/cs :ORF-14:
+not found in cs :9c:
+not found in cs :ORF9c:
+not found in cs :ORF-9c:
+not found in kg :Uncharacterized protein 14:
+not found in kg :Uncharacterized protein 14:
+not found in kg :PRO_0000449658:
+not found in kg :P0DTD3:
+not found in kg :ORF14:
+not found in kg :ORF14:
+summary	ORF14	2	3	6	5	8
+['ns7b', 'ns7b (SARS2)', 'accessory protein 7b (SARS2)', 'ORF7b (SARS2)', 'ORF 7b', 'protein 7b', 'ns7b', 'ns-7b', '7b']
+found kg/cs :ns7b:
+found kg/cs :ns7b (SARS2):
+found kg/cs :accessory protein 7b (SARS2):
+found kg/cs :ORF7b (SARS2):
+found kg/cs :ORF 7b:
+found kg/cs :protein 7b:
+found kg/cs :ns7b:
+found kg/cs :ns-7b:
+found kg/cs :7b:
+not found in kg :Accessory protein 7b:
+not found in kg :Accessory protein 7b:
+not found in kg :PRO_0000449799:
+not found in kg :P0DTD8:
+not found in kg :ORF7b:
+not found in kg :ORF7b:
+summary	ORF7b	9	0	6	9	16
+31 32
